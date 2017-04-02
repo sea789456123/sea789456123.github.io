@@ -72,6 +72,12 @@ hr.star-primary:after {
   background-color: lightblue;
   color: #2C3E50;
 }
+hr.star:after{
+  background-color:white;
+}
+hr.star-last:after{
+  background-color:lightblue;
+}
 .img-centered {
   margin: 0 auto;
 }
